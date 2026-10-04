@@ -68,13 +68,3 @@ El proyecto asume:
 
 Si usas NodeMCU o Wemos D1 mini, `GPIO4` suele estar rotulado como `D2`.
 
-## Dudas utiles para ajustar la version final
-
-Decime luego:
-
-- Si tu ESP8266 esta en una placa de desarrollo NodeMCU/Wemos o si es el modulo ESP-12 suelto.
-- Si tu DHT11 es el sensor de 4 pines pelado o un modulo de 3 pines.
-- Si queres IP fija en tu red o DHCP.
-- Si queres que el equipo cree un Access Point de configuracion cuando no encuentra WiFi.
-
-Con esas respuestas se puede endurecer el proyecto para instalacion permanente.
